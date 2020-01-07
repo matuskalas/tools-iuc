@@ -272,7 +272,7 @@ You can use this tool only if you agree to the license terms of: `ABySS`_.
         <edam_operation>operation_0525</edam_operation>
     </edam_operations>
     <citations>
-        <citation type="doi">10.1101/gr.089532.108</citation>
         <citation type="doi">10.1101/gr.214346.116</citation>
+        <citation type="doi">10.1101/gr.089532.108</citation>
     </citations>
 </tool>
