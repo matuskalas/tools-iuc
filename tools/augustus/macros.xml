@@ -8,12 +8,27 @@
     </xml>
 
     <token name="@VERSION@">3.3.3</token>
+    
+    <xml name="xrefs">
+        <xrefs>
+            <xref type="bio.tools">augustus</xref>
+        </xrefs>
+    </xml>
+    
+    <xml name="edam_topics">
+        <edam_topics>
+            <edam_topic>topic_3512</edam_topic>
+            <edam_topic>topic_0623</edam_topic>
+        </edam_topics>
+    </xml>
 
     <xml name="citations">
         <citations>
-            <citation type="doi">10.1093/bioinformatics/btg1080</citation>
+            <citation type="doi">10.1093/bioinformatics/btw494</citation>
             <citation type="doi">10.1093/bioinformatics/btr010</citation>
             <citation type="doi">10.1093/bioinformatics/btn013</citation>
+            <citation type="doi">10.1186/1471-2105-7-62</citation>
+            <citation type="doi">10.1093/bioinformatics/btg1080</citation>
         </citations>
     </xml>
 
