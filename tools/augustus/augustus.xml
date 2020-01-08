@@ -422,5 +422,10 @@ Running this tool will produce this:
 
 ]]>
     </help>
+    <edam_operations>
+        <edam_operation>operation_2454</edam_operation>
+        <edam_operation>operation_3662</edam_operation>
+        <edam_operation>operation_3663</edam_operation>
+    </edam_operations>
     <expand macro="citations"/>
 </tool>
